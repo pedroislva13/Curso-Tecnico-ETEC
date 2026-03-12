@@ -13,7 +13,7 @@ Sou apaixonado por tecnologia, inovação e por criar soluções que conectam id
 * 🌱 Estudando Desenvolvimento de Sistemas e aprimorando minhas habilidades na criação de aplicações web (como o projeto **Cronos**).
 * 💼 Atuo no setor imobiliário, entendendo na prática como a tecnologia pode transformar negócios e otimizar processos.
 * 🏆 Conquistei o 1º lugar no na categoria tecnoligia no projeto de empreendedorismo "Empreende25" em parceria com a Receita Federal.
-* 🎨 Também me aventuro na construção de identidades de marca e presença digital (como no projeto **Finantec**).
+* 🎨 Também atuo na construção de identidades de marca e presença digital (Desing Gráfico).
 * ⚡ **Curiosidade:** Tenho um grande interesse por ciências puras, especialmente química, e adoro entender como as coisas funcionam nos bastidores!
 
 ## 🛠️ Tecnologias e Ferramentas
